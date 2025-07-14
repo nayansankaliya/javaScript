@@ -1,0 +1,12 @@
+.bag-button {
+    background-color: lightgreen;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+.wishlist-button {
+    border-radius: 5px;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}
