@@ -1,6 +1,7 @@
 
 body {
     text-align: center;
+    font-family: sans-serif;
   }
   
   .choice-button {
@@ -15,5 +16,13 @@ body {
   
   .choice-img {
     height: 75px;
+  }
+  .reset-btn{
+    font-size: larger;
+    background-color: rgb(164, 212, 130);
+    border: none;
+    height: 75px;
+    width: 75px;
+    border-radius: 40px;
   }
   
