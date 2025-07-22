@@ -16,7 +16,7 @@ body {
 }
 
 .todo-container {
-  display: block;
+  display: inline-block ;
 }
 
 #todo-input,
